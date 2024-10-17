@@ -1,3 +1,5 @@
+## Pack archived since bundles have been added into the base game
+
 # Craftable Bundles
 Reintroduces the recipe of the bundle!
 
